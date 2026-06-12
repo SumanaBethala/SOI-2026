@@ -32,7 +32,7 @@ print(a+b)
 
 [Google](https://www.google.com/)
 
-![Image](C:\Users\ellio\OneDrive\Pictures\Screenshots\Screenshot (15).png)
+![Image](https://www.shutterstock.com/image-photo/sun-sets-behind-mountain-ranges-600nw-2479236003.jpg)
 
 
 
