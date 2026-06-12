@@ -54,6 +54,16 @@ AWS means
  - [ ] Amazon Web Storage
  - [ ] Amazon Wide Services
 
+Table
+
+|Name|College|Department|
+|----|---|---|
+|Sumana|APSSDC|AWS|
+|----|---|---|
+|Prasanth|KEC|CSE|
+
+
+
 ------
 [^1]:Thankful
 [^2]:Sadness
