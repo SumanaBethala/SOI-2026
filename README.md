@@ -6,4 +6,15 @@
 ###### H6
 
 
-Summer Online Internship Repository
+*Italic* or _Italic_
+
+**Bold**
+
+***Bold Italic***
+
+~~AWS~~ Amazon Web Services
+
+Sumana <sub>APSSDC</sub>
+
+
+
