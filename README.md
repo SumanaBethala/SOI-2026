@@ -49,10 +49,10 @@ Unorder List
  Greatful[^1]
  Sorrowful[^2]
 
-
- - [ ] Option 1
- - [ ] Option 2
- - [ ] Option 3
+AWS means
+ - [X] Amazon Web Services
+ - [ ] Amazon Web Storage
+ - [ ] Amazon Wide Services
 
 ------
 [^1]:Thankful
