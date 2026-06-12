@@ -32,7 +32,7 @@ print(a+b)
 
 [Google](https://www.google.com/)
 
-![Image]("C:\Users\ellio\OneDrive\Pictures\Screenshots\Screenshot (15).png")
+![Image](C:\Users\ellio\OneDrive\Pictures\Screenshots\Screenshot (15).png)
 
 
 
