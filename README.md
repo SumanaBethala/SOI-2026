@@ -68,8 +68,7 @@ Table
 [https://docs.aws.amazon.com/](#AWS-Documentation)
 
 
-first line\ 
-second line
+first line\ second line
 
 
 ------
