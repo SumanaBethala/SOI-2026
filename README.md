@@ -16,5 +16,7 @@
 
 Sumana <sub>APSSDC</sub>
 
+(a+b)<sup>2</sup>
+
 
 
